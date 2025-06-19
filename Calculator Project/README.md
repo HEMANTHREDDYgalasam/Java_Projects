@@ -1,65 +1,45 @@
-🧮 JavaFX Calculator App
-A simple yet functional calculator built using JavaFX. This desktop application supports basic arithmetic operations like addition, subtraction, multiplication, and division.
+# 🧮 JavaFX Calculator App
 
-<!-- You can replace # with a real screenshot URL if available -->
+A modern, basic calculator built with **JavaFX**. This application allows users to perform simple arithmetic operations with a clean, user-friendly interface.
 
-🚀 Features
-Clean and modern user interface using JavaFX
+![Calculator Screenshot](images/calculator_screenshot.png) <!-- Replace with your actual image path -->
 
-Responsive button layout with GridPane
+---
 
-Supports: +, -, *, /, C (Clear), = (Calculate)
+## ✨ Features
 
-Input is validated to avoid crashes
+- 🖱️ Clickable buttons for numbers and operations
+- ➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division
+- 🧼 Clear (`C`) function
+- ✅ Input validation and division-by-zero handling
+- 📱 Responsive layout using JavaFX `GridPane`
+- 🔢 Big display for better readability
 
-Displays "Error" for invalid operations like division by zero
+---
 
-📁 Project Structure
-bash
-Copy
-Edit
-CalculatorApp/
-├── src/
-│   └── javafx1/
-│       └── CalculatorApp.java
-├── README.md
-└── ...
-🛠️ How to Run
-Install Java (JDK 8 or later)
-Make sure Java is installed and JAVA_HOME is set.
+## 🛠️ Requirements
 
-Set Up JavaFX SDK
-Download JavaFX SDK and configure it in your IDE or build tool (like Maven/Gradle).
+- Java JDK 8 or later
+- JavaFX SDK (download from [https://openjfx.io](https://openjfx.io))
 
-Compile and Run
-If using command line:
+---
 
-bash
-Copy
-Edit
+## 🚀 Running the App
+
+### 🔧 Compile
+
+```bash
 javac --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls -d . src/javafx1/CalculatorApp.java
+
 java --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls javafx1.CalculatorApp
-Replace /path/to/javafx-sdk/lib with the actual path to your JavaFX SDK.
 
-🖼️ UI Layout
-The calculator uses a 4x4 GridPane layout:
-
-mathematica
-Copy
-Edit
- 7   8   9   /
- 4   5   6   *
- 1   2   3   -
- 0   C   =   +
-🔧 Future Improvements
-Add keyboard input support
-
-Include decimal point support
-
-Enhance error handling and display history
-
-Light/Dark mode switch
-
-📜 License
-This project is licensed under the MIT License.
+Java_projects/
+│
+├── README.md
+│
+├── Calculator_App/
+│   └── README.md
+│
+└── TodoList_App/
+    └── README.md
 
