@@ -1,45 +1,56 @@
-# 🧮 JavaFX Calculator App
+# 🔢 JavaFX Calculator App
 
-A modern, basic calculator built with **JavaFX**. This application allows users to perform simple arithmetic operations with a clean, user-friendly interface.
+![JavaFX](https://img.shields.io/badge/JavaFX-UI-blue) 
+![Status](https://img.shields.io/badge/Project-Complete-brightgreen) 
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-![Calculator Screenshot](images/calculator_screenshot.png) <!-- Replace with your actual image path -->
-
----
-
-## ✨ Features
-
-- 🖱️ Clickable buttons for numbers and operations
-- ➕ Addition, ➖ Subtraction, ✖️ Multiplication, ➗ Division
-- 🧼 Clear (`C`) function
-- ✅ Input validation and division-by-zero handling
-- 📱 Responsive layout using JavaFX `GridPane`
-- 🔢 Big display for better readability
+> 🎯 A sleek and interactive desktop calculator built using **JavaFX**.  
+> ✨ Perform basic arithmetic operations with a responsive, clean, and intuitive UI.
 
 ---
 
-## 🛠️ Requirements
+## 🚀 Key Features
 
-- Java JDK 8 or later
-- JavaFX SDK (download from [https://openjfx.io](https://openjfx.io))
+- ➕ **Addition**, ➖ **Subtraction**, ✖️ **Multiplication**, ➗ **Division**
+- 🔁 Clear/reset button to start fresh
+- 📐 Clean layout using `GridPane`
+- ⚡ Lightweight and fast — ideal for JavaFX beginners
+- 🧑‍💻 100% open-source and beginner-friendly
 
 ---
 
-## 🚀 Running the App
+## 🖼️ Application UI Preview
 
-### 🔧 Compile
+![Calculator Screenshot](./Screenshot.jpg)  
+*Clean, minimal JavaFX interface*
 
-```bash
-javac --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls -d . src/javafx1/CalculatorApp.java
+---
 
-java --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls javafx1.CalculatorApp
+## 🧰 Built With
 
-Java_projects/
-│
-├── README.md
-│
-├── Calculator_App/
-│   └── README.md
-│
-└── TodoList_App/
-    └── README.md
+| 🧩 Technology | 📝 Description                    |
+|--------------|----------------------------------|
+| Java         | Core logic & backend              |
+| JavaFX       | GUI framework for rich interfaces |
+| GridPane     | UI layout manager                 |
+| Scene/Stage  | Window management in JavaFX       |
 
+---
+
+## 🛠️ Getting Started
+
+### 📋 Prerequisites
+
+- ✅ Java JDK 11 or later
+- ✅ JavaFX SDK [(Download JavaFX)](https://openjfx.io)
+
+### ⚙️ Running the App
+
+1. **Clone the repository** or copy the code into `CalculatorApp.java`.
+2. **Open the project** in your preferred Java IDE (IntelliJ, VS Code, or Eclipse).
+3. **Configure JavaFX**:
+   - Add JavaFX SDK to your project/module path.
+   - Add the following **VM options** when running:
+
+   ```bash
+   --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls
