@@ -57,12 +57,35 @@
 
 ---
 
-### ✅ Key Improvements Added:
-- Better heading hierarchy and readability
-- More elegant emoji use for clarity
-- Tables for tech stack
-- Quotation-style highlights and section dividers
-- Clearly explained setup with commands and links
+## 🚧 Future Enhancements
 
-Let me know if you want a **README template for the To-Do List App** in the same format!
+- 🧮 Add advanced scientific calculator functions (square root, power, modulus)
+- 🌗 Implement Dark/Light theme toggle
+- ⌨️ Enable keyboard input functionality
+- 🧾 Display complete input expression above the result
+- 🖱️ Add hover/click animations for better UX
+
+---
+
+## 👨‍💻 Developer
+
+**Hemanth Reddy Galasam**  
+📧 ghemanthreddy499@gmail.com  
+🔗 [GitHub Profile](https://github.com/HEMANTHREDDYgalasam)
+
+---
+
+## 🌟 Support & Contributions
+
+If you found this project helpful:
+
+- ⭐ **Star** this repository to show your support  
+- 🗣️ **Share** it with fellow developers or learners  
+- 🛠️ **Fork & contribute**: Open issues or submit pull requests to help improve it  
+- 💡 **Suggest ideas**: Have a cool feature in mind? Open an issue!
+
+---
+
+> 💬 *"Made with JavaFX and a passion for building clean, functional UIs."*
+
 
