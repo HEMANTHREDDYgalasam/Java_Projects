@@ -1,31 +1,40 @@
-
-# Java Projects ☕
+# 💻 Java Projects Repository
 
 Welcome to the **Java Projects** repository!  
-This repository showcases mini Java applications developed using **JavaFX** to demonstrate GUI-based programming and Java fundamentals.
-
-Each project is organized in its own folder with complete source code, UI design, and a dedicated `README.md` containing implementation details and usage instructions.
+This repo showcases **mini Java applications** developed using **JavaFX** to demonstrate **GUI-based programming** and key **Java fundamentals**.
 
 ---
 
-## 🗂 Projects Included
+## 📁 Project Structure
 
-### 1. 🧮 Calculator App
-A basic calculator built with JavaFX that performs:
-- Addition, subtraction, multiplication, division
-- Real-time input validation
-- User-friendly button-based interface
+Each project is organized in its own folder with:
 
-📁 [Go to Calculator Project](./CalculatorProject/)
+- 🧠 Full source code
+- 🎨 JavaFX UI design
+- 📄 `README.md` file with implementation details & usage
 
 ---
 
-### 2. ✅ To-Do List App
-A JavaFX-based To-Do list manager with:
-- Task creation and deletion
-- Simple and clean user interface
-- Real-time updates to the task list
+## 🚀 Projects Included
 
-📁 [Go to To-Do List Project](./TodoListApp/)
+| Project Name        | Description                                |
+|---------------------|--------------------------------------------|
+| 🧮 **Calculator Project** | A basic calculator with GUI using JavaFX       |
+| 📝 **TodoList Project**   | A simple to-do list app with add/remove tasks |
 
 ---
+
+## 🛠️ Technologies Used
+
+- Java 11+
+- JavaFX
+- Object-Oriented Programming (OOP)
+- Scene Builder (optional for UI design)
+
+---
+
+## ✅ How to Run
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/HEMANTHREDDYgalasam/Java_Projects.git
