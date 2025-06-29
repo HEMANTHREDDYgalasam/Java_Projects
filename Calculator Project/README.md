@@ -54,3 +54,15 @@
 
    ```bash
    --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls
+
+---
+
+### ✅ Key Improvements Added:
+- Better heading hierarchy and readability
+- More elegant emoji use for clarity
+- Tables for tech stack
+- Quotation-style highlights and section dividers
+- Clearly explained setup with commands and links
+
+Let me know if you want a **README template for the To-Do List App** in the same format!
+
