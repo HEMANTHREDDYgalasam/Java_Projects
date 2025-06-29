@@ -75,14 +75,28 @@
 
 ---
 
-## 🌟 Support & Contributions
+## 🤝 Support & Contributions
 
-If you found this project helpful:
+Your feedback and support mean a lot!  
+If you'd like to be part of this project, here’s how you can help:
 
-- ⭐ **Star** this repository to show your support  
-- 🗣️ **Share** it with fellow developers or learners  
-- 🛠️ **Fork & contribute**: Open issues or submit pull requests to help improve it  
-- 💡 **Suggest ideas**: Have a cool feature in mind? Open an issue!
+### 🌟 Show Your Support
+- Give this repo a ⭐ star to help others discover it.
+- Share it with fellow developers or learners interested in JavaFX.
+
+### 🛠️ Contribute
+- Found a bug or want to suggest a feature?  
+  → Open an [Issue](https://github.com/HEMANTHREDDYgalasam/Java_Projects/issues)
+- Want to improve the code or add new features?  
+  → Fork the repo and submit a [Pull Request](https://github.com/HEMANTHREDDYgalasam/Java_Projects/pulls)
+
+### 💬 Have an Idea?
+Got a cool enhancement or improvement?  
+Feel free to drop a suggestion via email or GitHub issues. Let’s build it together!
+
+---
+
+> 🙌 *Every contribution, no matter how small, makes this project better!*
 
 ---
 
