@@ -1,40 +1,50 @@
-# 💻 Java Projects Repository
+# ☕ Java Projects
 
 Welcome to the **Java Projects** repository!  
-This repo showcases **mini Java applications** developed using **JavaFX** to demonstrate **GUI-based programming** and key **Java fundamentals**.
+This repo contains a collection of mini Java applications built using **JavaFX**, designed to demonstrate **GUI-based programming** and essential **Java concepts**.
 
----
-
-## 📁 Project Structure
-
-Each project is organized in its own folder with:
-
-- 🧠 Full source code
+Each project is neatly organized in its own folder, featuring:
+- 🧠 Complete source code
 - 🎨 JavaFX UI design
-- 📄 `README.md` file with implementation details & usage
+- 📄 Dedicated `README.md` with implementation steps and usage instructions
 
 ---
 
-## 🚀 Projects Included
+## 🗂 Projects Included
 
-| Project Name        | Description                                |
-|---------------------|--------------------------------------------|
-| 🧮 **Calculator Project** | A basic calculator with GUI using JavaFX       |
-| 📝 **TodoList Project**   | A simple to-do list app with add/remove tasks |
+### 1. 🧮 Calculator App
+A simple and interactive calculator built with JavaFX, featuring:
 
----
+- ➕ Basic operations: Addition, Subtraction, Multiplication, Division  
+- ✅ Real-time input validation  
+- 🖱️ Clean, button-based interface for smooth user interaction  
 
-## 🛠️ Technologies Used
-
-- Java 11+
-- JavaFX
-- Object-Oriented Programming (OOP)
-- Scene Builder (optional for UI design)
+📂 [Explore Calculator Project ➜](./Calculator%20Project/)
 
 ---
 
-## ✅ How to Run
+### 2. 📝 To-Do List App
+A lightweight task manager application designed using JavaFX. Key features include:
 
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/HEMANTHREDDYgalasam/Java_Projects.git
+- ✍️ Add & ❌ Remove tasks easily  
+- 🧼 Minimal and modern user interface  
+- 🔄 Real-time task list updates  
+
+📂 [Explore To-Do List Project ➜](./TodoList%20Project/)
+
+---
+
+## ⚙️ Tools & Technologies
+
+- 🔧 Java 11+
+- 🎨 JavaFX (GUI framework)
+- 🛠️ Scene Builder (optional for UI layout)
+- 💡 OOP Principles
+
+---
+
+## 🚀 Getting Started
+
+```bash
+# Clone the repository
+git clone https://github.com/HEMANTHREDDYgalasam/Java_Projects.git
