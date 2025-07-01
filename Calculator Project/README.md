@@ -21,7 +21,7 @@
 
 ## 🖼️ Application UI Preview
 
-![Calculator Screenshot](./Calculator.png)  
+![Calculator Screenshot](./calculator.png)  
 *Clean, minimal JavaFX interface*
 
 ---
