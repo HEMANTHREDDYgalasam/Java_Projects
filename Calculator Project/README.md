@@ -21,7 +21,7 @@
 
 ## 🖼️ Application UI Preview
 
-![Calculator Screenshot](./Calculator_screenshot.png)  
+<img src="./Calculator_screenshot.png" alt="Calculator Screenshot" width="320"/>  
 *Clean, minimal JavaFX interface*
 
 ---
