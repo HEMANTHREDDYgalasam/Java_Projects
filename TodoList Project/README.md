@@ -13,16 +13,16 @@
 
 - ➕ Add new tasks dynamically
 - 🗑️ Delete tasks with a click
-- 🆕 Real-time task updates in the UI
+- 🔄 Real-time task list updates
 - 🧹 Clean layout using `VBox` & `ListView`
-- 🎯 Minimalist design, easy for beginners to understand
-- 💡 100% open-source and easy to customize
+- 🎯 Minimalist design — ideal for beginners
+- 💡 100% open-source and beginner-friendly
 
 ---
 
 ## 🖼️ Application UI Preview
 
-![To-Do Screenshot](./TodoList.png)  
+<img src="./TodoList.png" alt="To-Do App Screenshot" width="320"/>  
 *Simple and modern JavaFX to-do list interface*
 
 ---
@@ -35,7 +35,7 @@
 | JavaFX       | GUI framework for interface       |
 | ListView     | Displays dynamic task items       |
 | VBox/HBox    | Layout managers for structure     |
-| EventHandlers| UI interaction logic              |
+| EventHandler | Handles user interaction          |
 
 ---
 
@@ -50,8 +50,50 @@
 
 1. Clone the repository or copy the code into `TodoListApp.java`
 2. Open it in your favorite IDE (IntelliJ, VS Code, Eclipse)
-3. Add JavaFX to your module path or build path
-4. Use the following VM options when running:
+3. Add JavaFX SDK to your module path or build path
+4. Use the following VM options:
 
 ```bash
 --module-path /path/to/javafx-sdk/lib --add-modules javafx.controls
+```
+
+5. Run the app and start managing your tasks!
+
+---
+
+## 🚧 Future Enhancements
+
+- 🕒 Add task due dates and reminders
+- 🌗 Add light/dark theme toggle
+- 📝 Enable editing of existing tasks
+- 💾 Save tasks to local storage or file
+- 🔁 Reorder tasks via drag-and-drop
+- 📊 Add task completion statistics
+
+---
+
+## 👨‍💻 Developer
+
+**Hemanth Reddy Galasam**  
+📧 ghemanthreddy499@gmail.com  
+🔗 [GitHub Profile](https://github.com/HEMANTHREDDYgalasam)
+
+---
+
+## 🤝 Support & Contributions
+
+Your feedback and contributions are always welcome!
+
+### 🌟 Show Some Love
+- ⭐ Star this repository to support the project
+- 📢 Share it with your friends or community
+
+### 🛠️ Contribute
+- Found a bug or want a new feature?  
+  → Open an [Issue](https://github.com/HEMANTHREDDYgalasam/Java_Projects/issues)
+- Want to improve the app?  
+  → Fork the repo & submit a [Pull Request](https://github.com/HEMANTHREDDYgalasam/Java_Projects/pulls)
+
+---
+
+> 🧠 *"Built with JavaFX and a passion for productivity!"*
